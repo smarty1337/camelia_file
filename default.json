@@ -1,0 +1,55 @@
+{
+  "log_colorkill": "134, 150, 245",
+  "right_side": 67,
+  "condition": "Crouch",
+  "arrows": true,
+  "antiaim_el": {
+    "Shared": {
+      "yaw": -180,
+      "mode": "None",
+      "yaw_modifier": -180,
+      "enable": false
+    },
+    "Crouch": {
+      "yaw": -180,
+      "mode": "Center",
+      "yaw_modifier": 63,
+      "enable": true
+    },
+    "Run": {
+      "yaw": -180,
+      "mode": "Way-3",
+      "yaw_modifier": 63,
+      "enable": true
+    },
+    "Walk": {
+      "yaw": 148,
+      "mode": "None",
+      "yaw_modifier": -180,
+      "enable": true
+    },
+    "Stand": {
+      "yaw": -180,
+      "mode": "Random",
+      "yaw_modifier": 83,
+      "enable": true
+    },
+    "Air": {
+      "yaw": -180,
+      "mode": "Random",
+      "yaw_modifier": 112,
+      "enable": true
+    }
+  },
+  "watermark_color": "134, 150, 245",
+  "watermark": true,
+  "indicator_features": "Condition",
+  "log_show": "Screen",
+  "log_colorhit": "219, 88, 86",
+  "fov": 80,
+  "locations": "",
+  "indicator": true,
+  "indicator_color": "134, 150, 245",
+  "log": true,
+  "left_side": 88
+}
